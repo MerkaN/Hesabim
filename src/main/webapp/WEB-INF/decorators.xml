@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/template">
+    <decorator name="main" page="template1.jsp">
+        <pattern>/Folder_name/*</pattern>
+        <pattern>/Folder_name2/test.jsp</pattern>
+    </decorator>
+</decorators>
